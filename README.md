@@ -1,4 +1,12 @@
-About me : 
+✅ DevOps Engineer with 12+ years of experience in IT infrastructure, virtualization, and data center setup across telecom, ISPs, private companies, and government sectors.
 
-More than 12 years of my work is related to work experience in the following topics: setting up infrastructure and data center, virtualization, physical infrastructure. in the fields of telecom, isp, private companies and government organizations and now :
-I am working as a Devops , and my duties are as follows: support and maintenance of microservices, log collection and service monitoring, application deployment and configuration, working with development teams, operations, familiarization with common DevOps tools and processes.
+Throughout my career, I have designed, implemented, and maintained complex infrastructures, both physical and virtual. In my current role as a DevOps Engineer, I focus on:
+
+⭕Supporting and maintaining microservices architecture
+⭕Managing application deployment and configuration
+⭕Collaborating closely with development and operations teams
+⭕Implementing centralized logging and service monitoring
+⭕Working with modern DevOps tools and practices (CI/CD, containerization, IaC, etc.)
+
+
+I am passionate about automation, system reliability, and bridging the gap between development and operations to deliver scalable and resilient systems.
