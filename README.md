@@ -4,8 +4,11 @@ Throughout my career, I have designed, implemented, and maintained complex infra
 
 ⭕Supporting and maintaining microservices architecture
 ⭕Managing application deployment and configuration
+
 ⭕Collaborating closely with development and operations teams
+
 ⭕Implementing centralized logging and service monitoring
+
 ⭕Working with modern DevOps tools and practices (CI/CD, containerization, IaC, etc.)
 
 
