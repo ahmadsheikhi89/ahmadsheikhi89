@@ -3,6 +3,7 @@
 Throughout my career, I have designed, implemented, and maintained complex infrastructures, both physical and virtual. In my current role as a DevOps Engineer, I focus on:
 
 ⭕Supporting and maintaining microservices architecture
+
 ⭕Managing application deployment and configuration
 
 ⭕Collaborating closely with development and operations teams
